@@ -1,5 +1,5 @@
 {
-  "latest": "1.4",
-  "released": "2026-11-04",
-  "notes": "Complete Round button, Show Frame Dimensions window, update check, version shown under the title."
+  "latest": "1.6",
+  "released": "2026-11-05",
+  "notes": "Update pop-up, Shim Instruction button in the plan summary, setup bar can be minimized, open layout."
 }
